@@ -1,2 +1,5 @@
 # EM-BOT
-To design a classifier to review comment’s and classify them as positive, negative or neutral comments.
+To design a classifier to review comment’s and classify them as positive, negative comment.
+EM Bot is a Chat Bot developed to analyse the sentiment in the text entered by user. To find the sentiment in a text we use algorithms like Naïve Bayes, Random Forest and Dictionary Based approaches. Once the text is analysed then they are Compared, and we get their efficiency in terms of percentage.  Once a Customer receives his product which he has purchased online EM Bot starts its play where it develops a conversation with customer regarding his experience with the delivery and quality of product and his overall review.   At last the whole chat is taken into account for analysis where each statement of customer is analysed and at last the overall chat conversations are analysed and based on the value obtained the sentiment is categorised into positive, Negative or neutral. EM Bot can also be used in places like feedback analysis, spam detection, and in other various sentiment analysis areas. 
+The folder assets.zip contains the django connectivity files and the dashboard design.
+The folder edited data set contains 1500 product review data set of dog food products and accessories.
